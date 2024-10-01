@@ -5,7 +5,7 @@
 
 ### Objectives
 
-###### The main objectives of this project are:
+The main objectives of this project are:
 
 - Analyze Air Quality Trends: Assess historical air quality data to detect patterns or significant changes in pollution levels.
 - Correlate with Population Growth: Understand how the increasing population in San Diego has influenced air quality.
@@ -14,7 +14,7 @@
 
 ### Methodology
 
-###### The analysis is conducted using Python and several data science libraries such as Pandas, NumPy, and Matplotlib. The workflow involves:
+The analysis is conducted using Python and several data science libraries such as Pandas, NumPy, and Matplotlib. The workflow involves:
 
 1. Data Collection: Gathering air quality, population, and vehicle registration datasets.
 2. Data Cleaning & Preprocessing: Standardizing and preparing data for analysis.
